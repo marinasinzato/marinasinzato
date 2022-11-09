@@ -1,4 +1,7 @@
-### <h1>Olá! Eu sou a Marina Miki :) </h1>
+### <h1>Olá! Eu sou a Marina Miki :) </h1> 
+<div align="center">
+<img width="200em" src="https://user-images.githubusercontent.com/64978999/200712934-2b104962-f587-4adf-a638-dfebc40bcaf9.jpg">
+</div>
 
 - Estudante de Sistemas de Informação no Mackenzie
 - Contate-me no email: marina.sinzato@gmail.com 
